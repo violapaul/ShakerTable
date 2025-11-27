@@ -1,0 +1,11 @@
+{
+    "folders": [
+        { "path": "AlanTest" },
+        { "path": "Empty" },
+        { "path": "M5ServoTest" },
+        { "path": "servo2_coreS3_demo" },
+        { "path": "TouchTest" }
+    ],
+    "settings": {}
+}
+
